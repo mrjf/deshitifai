@@ -1,18 +1,18 @@
 # deshitifai
 
-Agent skill and principles for deshitifying bad websites into fast, simple, useful static sites.
+Agent skill and principles for deshitifying bad web processes, workflows, public information sources, and websites into fast, simple, useful static sites and tools.
 
 See the site: https://deshitiff.ai
 
 ## What this is
 
-Deshitifai is a workflow for taking something annoying on the web and rebuilding the useful part:
+Deshitifai is a workflow for taking an annoying web process and rebuilding the useful part:
 
-1. Find a bad website or workflow.
+1. Find a bad process, website, source, or workflow.
 2. Identify the useful data.
 3. Build a simple schema.
 4. Scrape or import the data responsibly.
-5. Publish it in a faster, clearer, friendlier static site.
+5. Publish it in a faster, clearer, friendlier static site, tool, directory, or view.
 6. Test it.
 7. Host it.
 8. Point a domain at it if needed.
@@ -28,10 +28,10 @@ The principles are here:
 ## Copy-paste for your agent
 
 ```text
-Use https://github.com/mrjf/deshitifai/blob/main/SKILL.md help me create a deshitified version of [the annoying website or workflow]. I want you to walk me through the whole process from idea to tested and completed hosted site.
+Use https://github.com/mrjf/deshitifai/blob/main/SKILL.md help me create a deshitified version of [the annoying process, website, source, or workflow]. I want you to walk me through the whole process from idea to tested and completed hosted site.
 ```
 
-Replace `[the annoying website or workflow]` with the site, page, database, directory, search result, app flow, or public information source you want to improve.
+Replace `[the annoying process, website, source, or workflow]` with the task, site, page, database, directory, search result, app flow, or public information source you want to improve.
 
 ## Hosting defaults
 
